@@ -1,6 +1,6 @@
 # README file for scripts and data for Chari & Dworkin 2013
 
-contact idworkin "at" msu.edu for more information about the files or scripts associated with these data and scripts. A static copy is also available on [DRYAD](http://datadryad.org/resource/doi:10.5061/dryad.1375s)
+contact idworkin "at" msu.edu for more information about the files or scripts associated with these data and scripts. A static copy is also available on [DRYAD](http://datadryad.org/resource/doi:10.5061/dryad.4dt7c)
 
 Data and script relating to:
 
@@ -9,10 +9,10 @@ Chari, S., Dworkin, I. (2013). The conditional nature of genetic interactions: t
 [http://dx.plos.org/10.1371/journal.pgen.1003661]
 
 If you are using the data, please also consider citing the DRYAD data package.
-doi:10.5061/dryad.1375s
+doi:10.5061/dryad.4dt7c
 
-Files and folders found in Data&Scripts_ChariDworkin2013.zip
-All scripts can be read using R version 2.14.2
+
+All scripts can be read using R version 2.14.2 (which was used for analysis)
 
 
 ## Abstract:
